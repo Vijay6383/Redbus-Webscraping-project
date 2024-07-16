@@ -21,8 +21,6 @@ Web Scraping using Selenium, Python, Streamlit , SQL, Data Analysis, Interactive
 
 ## Objectives
 
-This project is used by the following companies:
-
 - Successfully scrape a minimum of 10 Government State Bus Transport data from Redbus website using Selenium. Also include the private bus information for the selected routes.
 - Store the data in a structured SQL database.
 - Develop an interactive Streamlit application for data filtering.
