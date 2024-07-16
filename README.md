@@ -69,3 +69,6 @@ After running all cells, Run the streamlit application
 - [Selenium](https://www.selenium.dev/documentation/webdriver/elements/locators/)
 - [Streamlit](https://docs.streamlit.io/get-started/installation)
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-moses-avm/)
